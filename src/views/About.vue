@@ -26,6 +26,7 @@ export default {
 
 <template>
 			 <!-- Seyran Zhamkochyan -->
+			  <!-- Seyran Zhamkochyan -->
 	<div>
 		<!-- About me -->
 		<div class="container mx-auto">
