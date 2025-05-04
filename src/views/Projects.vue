@@ -10,6 +10,7 @@ export default {
 </script>
 
 <template>
+			 <!-- Seyran Zhamkochyan -->
 	<div class="container mx-auto">
 		<ProjectsGrid />
 	</div>

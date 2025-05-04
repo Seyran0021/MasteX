@@ -25,6 +25,7 @@ export default {
 
 
 <template>
+  		 <!-- Seyran Zhamkochyan -->
   <div class="container mx-auto">
     <!-- Banner -->
     <AppBanner class="mb-5 sm:mb-8" />

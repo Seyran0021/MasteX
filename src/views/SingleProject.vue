@@ -172,6 +172,7 @@ export default {
 </script>
 
 <template>
+			 <!-- Seyran Zhamkochyan -->
 	<div class="container mx-auto mt-10 sm:mt-20">
 		<!-- Project header -->
 		<ProjectHeader :singleProjectHeader="singleProjectHeader" />
