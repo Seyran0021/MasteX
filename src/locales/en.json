@@ -1,0 +1,64 @@
+{
+  "aboutmetext": {
+    "bios": [
+      "I am a Full Stack Web Developer with over two years of experience in web application development. I studied at Profit Training Center, where I gained both theoretical knowledge and practical experience working on real projects. I also improved my skills through Full Learning, which helped me confidently master modern technologies and development practices.",
+      "Currently, I work at Ekey Business Automation, where I develop and maintain business applications, and I also collaborate with clients on Upwork as a freelance developer.",
+      "I am confident working on both frontend and backend, with a strong stack of technologies including:",
+      "Frontend: HTML, CSS, JavaScript, Vue.js, Vuex, React, Redux",
+      "Backend: Python, Flask, FastAPI, Django, SQLAlchemy",
+      "Databases: SQL, MySQL",
+      "Additionally: Git, GitHub",
+      "I’m always open to new opportunities, keep learning, and make sure my projects are practical, efficient, and easy to use."
+    ],
+    "companies": [
+      "These companies contributed to my professional journey through training, internships, or work."
+    ]
+  },
+  "categories": {
+    "allprojects": "All Projects",
+    "webapp": "Web Application",
+    "shopapp": "Shopping Interface",
+    "webappent": "Entertainment Web App"
+  },
+  "follow": "Follow Me",
+  "projects": "Projects",
+  "allprojects": "All Projects",
+  "webapp": "Web Applications",
+  "shopapp": "Shopping Interface",
+  "webappent": "Entertainment Web App",
+  "AboutMe": "About Me",
+  "contact": "Contact",
+  "searchprojs": "Search projects by title or filter by category",
+  "searchinput": "Search Project",
+  "byme": "Developed by",
+  "years": "Years of experience",
+  "feedback": "Positive feedback",
+  "complprojs": "Projects completed",
+  "contactform": "Contact Form",
+  "fullname": "Full Name",
+  "yourname": "Your Name",
+  "email": "Email",
+  "Message": "Message",
+  "send": "Send Message",
+  "crmWebPlatform": "CRM Web Platform",
+  "adminDashboard": "Admin Panel Dashboard",
+  "onlineShop": "Online Shop",
+  "movieCatalog": "Movie Catalog Website",
+  "freelanceBoard": "Freelance Job Board",
+  "repairService": "Repair Service Electronics",
+  "hi": "Hi, I am Seyran Zhamkochyan",
+  "fullstack": "Full-Stack Web Developer",
+  "gar1": "From concept to launch — full-cycle web development",
+  "gar": {
+    "gar3": [
+      "From concept to launch — full-cycle web development",
+      "Modern technologies to grow your business"
+    ]
+  },
+  "gar2": "Modern technologies to grow your business",
+  "webApplication": "Web Application",
+  "shoppingInterface": "Shopping Interface",
+  "entertainmentApp": "Entertainment Web App",
+  "condetails": "Contact details",
+  "projectsHeading": "Projects"
+}
