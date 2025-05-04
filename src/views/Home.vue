@@ -23,9 +23,8 @@ export default {
 };
 </script>
 
-
 <template>
-  		 <!-- Seyran Zhamkochyan -->
+  <!-- Seyran Zhamkochyan -->
   <div class="container mx-auto">
     <!-- Banner -->
     <AppBanner class="mb-5 sm:mb-8" />
