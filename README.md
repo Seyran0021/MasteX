@@ -19,7 +19,7 @@ git clone https://github.com/Seyran0021/MyPersonalPage.git
 3. ##### Open the project folder:
 
 ```
-cd vuejs-tailwindcss-portfolio
+cd MyPersonalPage
 ```
 
 4. ##### Install packages and dependencies:
