@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "szhamkochyan.com"
+        }
+      ],
+      "destination": "https://www.szhamkochyan.com/$1",
+      "statusCode": 301
+    }
+  ]
+}
