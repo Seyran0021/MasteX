@@ -45,7 +45,7 @@ export default {
 		</back-to-top>
 
 		<!-- App footer -->
-		 <!-- Seyran Zhamkochyan -->
+
 		<AppFooter />
 	</div>
 </template>
