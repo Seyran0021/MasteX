@@ -10,6 +10,7 @@ const bios = computed(() => tm('aboutmetext.bios'));
 <template>
   <div class="block sm:flex sm:gap-10 mt-10 sm:mt-20">
     <!-- About profile image -->
+     <!-- S -->
     <div class="w-full sm:w-1/4 mb-7 sm:mb-0">
       <img
         src="@/assets/images/profile.webp"
