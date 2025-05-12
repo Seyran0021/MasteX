@@ -5,10 +5,10 @@
       "has": [
         {
           "type": "host",
-          "value": "szhamkochyan.com"
+          "value": "masterx.am"
         }
       ],
-      "destination": "https://www.szhamkochyan.com/$1",
+      "destination": "https://www.masterx.am/$1",
       "statusCode": 301
     }
   ]
