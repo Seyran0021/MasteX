@@ -13,13 +13,13 @@ brew install node
 2. ##### Clone the repo:
 
 ```
-git clone https://github.com/Seyran0021/MyPersonalPage.git
+git clone https://github.com/Seyran0021/MasterX.git
 ```
 
 3. ##### Open the project folder:
 
 ```
-cd MyPersonalPage
+cd MasterX
 ```
 
 4. ##### Install packages and dependencies:
