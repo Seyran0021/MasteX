@@ -67,7 +67,7 @@ body {
 }
 
 .vue-back-to-top {
-	@apply p-2 bg-gray-500 hover:bg-gray-500 text-white transition
+	@apply p-2 bg-red-600 hover:bg-gray-500 text-white transition
         duration-500
         ease-in-out
         transform

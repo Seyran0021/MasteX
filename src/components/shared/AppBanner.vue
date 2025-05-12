@@ -22,6 +22,18 @@ export default {
       theme: '',
     };
   },
+  computed: {
+    formattedText() {
+      const text = this.hi;
+      if (!text) return '';
+      const first = `<span class="text-red-600 text-5xl">${text[0]}</span>`;
+      const last = `<span class="text-red-600 text-5xl">${
+        text[text.length - 1]
+      }</span>`;
+      const middle = text.slice(1, -1);
+      return first + middle + last;
+    },
+  },
   created() {
     this.theme = localStorage.getItem('theme') || 'light';
   },
@@ -43,10 +55,9 @@ export default {
     <!-- Banner left contents -->
     <div class="w-full md:w-1/3 text-left">
       <h1
-        class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
-      >
-        {{ hi }}
-      </h1>
+        class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left uppercase text-red-600"
+        v-html="formattedText"
+      ></h1>
       <p
         class="font-general-medium mt-2 text-lg sm:text-xl xl:text-2xl text-center sm:text-left leading-none text-gray-400"
       >

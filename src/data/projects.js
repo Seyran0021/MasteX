@@ -8,15 +8,15 @@ const projects = [
 	},
 	{
 		id: 2,
-		title: 'adminDashboard',
-		category: 'webApplication',
-		img: require('@/assets/images/mobile-project-2.png'),
-	},
-	{
-		id: 3,
 		title: 'onlineShop',
 		category: 'shoppingInterface',
 		img: require('@/assets/images/ui-project-1.png'),
+	},
+		{
+		id: 3,
+		title: 'adminDashboard',
+		category: 'webApplication',
+		img: require('@/assets/images/mobile-project-2.png'),
 	},
 	{
 		id: 4,
