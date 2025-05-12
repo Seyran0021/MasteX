@@ -144,13 +144,13 @@ export default {
           <router-link to="/"
             ><img
               v-if="theme === 'light'"
-              src="@/assets/images/logo-dark.png"
+              src="@/assets/images/logo-dark.svg"
               class="w-44"
               alt="Dark Logo"
             />
             <img
               v-else
-              src="@/assets/images/logo-dark.png"
+              src="@/assets/images/logo-dark.svg"
               class="w-44"
               alt="Light Logo"
             />
@@ -214,7 +214,7 @@ export default {
 
       <!-- Header right section buttons -->
       <div
-        class="hidden sm:flex justify-between items-center flex-col md:flex-row"
+        class="hidden sm:flex justify-between items-center gap-1 flex-col md:flex-row"
       >
         <!-- Hire me button -->
         <!-- <div class="hidden md:block">

@@ -36,7 +36,7 @@ export default {
     <div class="mt-10 sm:mt-20 flex justify-center">
       <router-link
         to="/about"
-        class="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-custom-gray hover:bg-custom-gray-dark focus:ring-1 focus:ring-gray-700 text-white text-lg sm:text-xl duration-300"
+        class="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-custom-red hover:bg-custom-red-dark focus:ring-1 focus:ring-red-700 text-white text-lg sm:text-xl duration-300"
         aria-label="More Projects"
       >
         <Button :title="$t('AboutMe')" />

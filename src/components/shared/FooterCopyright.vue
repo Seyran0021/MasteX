@@ -5,7 +5,7 @@ export default {
   data: () => {
     return {
       copyrightDate: new Date().getFullYear(),
-      projectName: 'Personal Page',
+      projectName: 'MasterX',
       author: 'Seyran Zhamkochyan',
     };
   },
@@ -27,7 +27,7 @@ export default {
     >
       &copy; {{ copyrightDate }}.
       <a
-        href="https://www.linkedin.com/in/seyran-zhamkochyan-226563305/"
+        href="https://www.masterx.am/"
         target="__blank"
         class="font-general-medium hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
       >
@@ -35,7 +35,7 @@ export default {
       </a>
       . {{ byme }}
       <a
-        href="https://www.instagram.com/_zhamkochyan/"
+        href="https://www.linkedin.com/in/seyran-zhamkochyan-226563305/"
         target="__blank"
         class="font-general-medium text-secondary-dark dark:text-secondary-light uppercase hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
         >{{ author }}</a

@@ -16,31 +16,19 @@ export default {
         id: 1,
         name: 'GitHub',
         icon: 'facebook',
-        url: 'https://www.facebook.com/profile.php?id=100005691318238',
+        url: 'https://www.facebook.com/Masterxservice',
       },
       {
         id: 4,
         name: 'Instagram',
         icon: 'instagram',
-        url: 'https://instagram.com/_zhamkochyan',
+        url: 'https://www.instagram.com/masterx58.1/',
       },
       {
         id: 5,
         name: 'Mail',
         icon: 'mail',
-        url: 'https://mail.google.com/mail/u/0/#inbox?compose=VpCqJXKbbckPkprVPJClNwZXRBtSdMbdcpJGLBRpXgLVVGNJxvJqxBVNVwbpnnGZGZtzGwQ',
-      },
-      {
-        id: 2,
-        name: 'GitHub',
-        icon: 'github',
-        url: 'https://github.com/Seyran0021',
-      },
-      {
-        id: 3,
-        name: 'Linkedin',
-        icon: 'linkedin',
-        url: 'https://www.linkedin.com/in/seyran-zhamkochyan-226563305/',
+        url: 'https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqzvsdrtdsGLKfZxWNSQpwCbdkfpfGXcjbDsdHTRCZXdTHSFFhMDNMKffDgFrHSKBKn',
       },
     ];
 

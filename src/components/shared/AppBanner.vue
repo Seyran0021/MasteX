@@ -9,12 +9,12 @@ export default {
     const { tm } = useI18n();
     const hi = computed(() => tm('hi'));
     const fullstack = computed(() => tm('fullstack'));
-    const gar1 = computed(() => tm('gar1'));
+    // const gar1 = computed(() => tm('gar1'));
 
     return {
       hi,
       fullstack,
-      gar1,
+      // gar1,
     };
   },
   data: () => {
@@ -38,7 +38,7 @@ export default {
 
 <template>
   <section
-    class="flex flex-col sm:justify-between items-center sm:flex-row mt-12 sm:mt-10"
+    class="flex flex-col sm:justify-between items-center gap-2 sm:flex-row mt-12 sm:mt-10"
   >
     <!-- Banner left contents -->
     <div class="w-full md:w-1/3 text-left">
@@ -55,7 +55,7 @@ export default {
       <p
         class="font-general-medium mt-2 text-lg sm:text-xl xl:text-2xl text-center sm:text-left leading-none text-gray-400"
       >
-        {{ gar1 }}
+        <!-- {{ gar1 }} -->
       </p>
       <!-- <p
         class="font-general-medium mt-2 text-lg sm:text-xl xl:text-2xl text-center sm:text-left leading-none text-gray-400"

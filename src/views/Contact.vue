@@ -13,18 +13,18 @@ export default {
       contacts: [
         {
           id: 1,
-          name: 'Armenia, Yerevan',
+          name: 'Komitas Ave 58/1, Yerevan',
           icon: 'map-pin',
         },
         {
           id: 2,
-          name: 'szhamkochyan1@gmail.com',
+          name: 'Info@masterx.am',
           icon: 'mail',
         },
         {
           id: 3,
-          name: '+374 77 431177',
-          name2: '+374 93 549472',
+          name: '+374 77 91 31 71',
+          name2: '+374 33 06 06 63',
           icon: 'phone',
         },
       ],

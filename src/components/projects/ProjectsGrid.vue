@@ -1,13 +1,13 @@
 <script>
 import feather from 'feather-icons';
-import ProjectsFilter from './ProjectsFilter.vue';
+// import ProjectsFilter from './ProjectsFilter.vue';
 import ProjectSingle from './ProjectSingle.vue';
 import projects from '../../data/projects';
 import { useI18n } from 'vue-i18n';
 import { ref, computed, onMounted } from 'vue';
 
 export default {
-  components: { ProjectSingle, ProjectsFilter },
+  components: { ProjectSingle },
 
   setup() {
     const { t, tm } = useI18n();
@@ -59,7 +59,7 @@ export default {
       <p
         class="font-general-semibold text-2xl sm:text-5xl font-semibold mb-2 text-ternary-dark dark:text-ternary-light"
       >
-        {{ projectsHeading }}
+        <!-- {{ projectsHeading }} -->
       </p>
     </div>
 
@@ -68,21 +68,21 @@ export default {
       <h3
         class="font-general-regular text-center text-secondary-dark dark:text-ternary-light text-md sm:text-xl font-normal mb-4"
       >
-        {{ searchprojs }}
+        <!-- {{ searchprojs }} -->
       </h3>
       <div
         class="flex flex-wrap justify-between border-b border-primary-light dark:border-secondary-dark pb-3 gap-2"
       >
         <div class="flex justify-between gap-2">
-          <span
+          <!-- <span
             class="hidden sm:block bg-primary-light dark:bg-ternary-dark p-2.5 shadow-sm rounded-xl cursor-pointer"
           >
             <i
               data-feather="search"
               class="text-ternary-dark dark:text-ternary-light"
             ></i>
-          </span>
-          <input
+          </span> -->
+          <!-- <input
             v-model="searchProject"
             class="font-general-medium pl-3 pr-1 sm:px-4 py-2 border-1 border-gray-200 dark:border-secondary-dark rounded-lg text-sm sm:text-md bg-secondary-light dark:bg-ternary-dark text-primary-dark dark:text-ternary-light"
             id="name"
@@ -91,9 +91,9 @@ export default {
             required=""
             :placeholder="searchinput"
             aria-label="Name"
-          />
+          /> -->
         </div>
-        <ProjectsFilter @filter="selectedCategory = $event" />
+        <!-- <ProjectsFilter @filter="selectedCategory = $event" /> -->
       </div>
     </div>
 

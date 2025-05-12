@@ -45,7 +45,7 @@ export default {
         {{ contactform }}
       </p>
       <form
-        action="https://formspree.io/f/mnndpyek"
+        action="https://formspree.io/f/manodory"
         method="POST"
         class="font-general-regular space-y-7"
       >

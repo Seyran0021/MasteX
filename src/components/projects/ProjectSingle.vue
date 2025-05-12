@@ -11,8 +11,7 @@ export default {
 </script>
 
 <template>
-  <router-link
-    to="/projects/"
+  <div
     class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
     aria-label="Single Project"
   >
@@ -20,7 +19,7 @@ export default {
       <img
         :src="project.img"
         :alt="t(project.title)"
-        class="rounded-t-xl border-none object-cover w-full h-[300px]"
+        class="rounded-t-xl border-none object-cover w-full h-full"
       />
     </div>
     <div class="text-center px-4 py-6">
@@ -32,10 +31,9 @@ export default {
       <span
         class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
       >
-        {{ t(project.category) }}
       </span>
     </div>
-  </router-link>
+  </div>
 </template>
 
 <style lang="scss" scoped></style>

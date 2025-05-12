@@ -13,7 +13,7 @@ const bios = computed(() => tm('aboutmetext.bios'));
      <!-- S -->
     <div class="w-full sm:w-1/4 mb-7 sm:mb-0">
       <img
-        src="@/assets/images/profile.webp"
+        src="@/assets/images/profile.png"
         class="rounded-xl w-96"
         alt=""
       />
@@ -24,7 +24,7 @@ const bios = computed(() => tm('aboutmetext.bios'));
       <p
         v-for="(bio, index) in bios"
         :key="index"
-        class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg"
+        class="font-general-regular mb-1 text-ternary-dark dark:text-ternary-light text-lg"
       >
         {{ bio }}
       </p>

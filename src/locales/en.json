@@ -1,14 +1,21 @@
 {
   "aboutmetext": {
     "bios": [
-      "I am a Full Stack Web Developer with over two years of experience in web application development. I studied at Profit Training Center, where I gained both theoretical knowledge and practical experience working on real projects. I also improved my skills through Full Learning, which helped me confidently master modern technologies and development practices.",
-      "Currently, I work at Ekey Business Automation, where I develop and maintain business applications, and I also collaborate with clients on Upwork as a freelance developer.",
-      "I am confident working on both frontend and backend, with a strong stack of technologies including:",
-      "Frontend: HTML, CSS, JavaScript, Vue.js, Vuex, React, Redux",
-      "Backend: Python, Flask, FastAPI, Django, SQLAlchemy",
-      "Databases: SQL, MySQL",
-      "Additionally: Git, GitHub",
-      "I’m always open to new opportunities, keep learning, and make sure my projects are practical, efficient, and easy to use."
+      "MasterX is an electronics repair and maintenance service center based in Yerevan, located in the heart of Komitas Avenue. We specialize in the repair of televisions, coffee machines, computers, and other household electronic devices, providing fast, professional, and reliable service.",
+      "Our goal is to:",
+      " • Treat every customer like family,",
+      " • Deliver technically sound solutions for every device,",
+      " • And offer all of that at fair prices—without compromising quality.",
+      "Why choose MasterX?",
+      "✅ Experienced technicians",
+      "✅ Fast diagnostics and repairs",
+      "✅ Use of original spare parts",
+      "✅ Warranty on every service",
+      "✅ High customer satisfaction",
+      "We are committed to our core principles of trust, quality, and affordability, and we work every day to become the #1 electronics repair center in Armenia.",
+      "📍 Address: Komitas Ave 58/1, Yerevan",
+      "📞 Contact: 077 91 31 71 | 033 06 06 63",
+      "🌐 Website: masterx.am"
     ],
     "companies": [
       "These companies contributed to my professional journey through training, internships, or work."
@@ -20,13 +27,13 @@
     "shopapp": "Shopping Interface",
     "webappent": "Entertainment Web App"
   },
-  "follow": "Follow Me",
+  "follow": "Follow Us",
   "projects": "Projects",
   "allprojects": "All Projects",
   "webapp": "Web Applications",
   "shopapp": "Shopping Interface",
   "webappent": "Entertainment Web App",
-  "AboutMe": "About Me",
+  "AboutMe": "About Us",
   "contact": "Contact",
   "searchprojs": "Search projects by title or filter by category",
   "searchinput": "Search Project",
@@ -40,14 +47,14 @@
   "email": "Email",
   "Message": "Message",
   "send": "Send Message",
-  "crmWebPlatform": "CRM Web Platform",
-  "adminDashboard": "Admin Panel Dashboard",
-  "onlineShop": "Online Shop",
-  "movieCatalog": "Movie Catalog Website",
-  "freelanceBoard": "Freelance Job Board",
-  "repairService": "Repair Service Electronics",
-  "hi": "Hi, I am Seyran Zhamkochyan",
-  "fullstack": "Full-Stack Web Developer",
+  "crmWebPlatform": "Smart TVs",
+  "adminDashboard": "Coffee machines",
+  "onlineShop": "Microwaves",
+  "movieCatalog": "Vacuum cleaners",
+  "freelanceBoard": "Irons",
+  "repairService": "Blenders",
+  "hi": "MasterX",
+  "fullstack": "Money is a consequence, quality is the goal.",
   "gar1": "From concept to launch — full-cycle web development",
   "gar": {
     "gar3": [
