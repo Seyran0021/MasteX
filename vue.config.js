@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/MasterX/', // имя репозитория
+  publicPath: '/MasteX/', // имя репозитория
 };
